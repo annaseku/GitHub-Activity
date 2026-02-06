@@ -87,7 +87,7 @@ def main():
     """
     CLI that prompts the user for a GitHub username and lists their recent activity.
     Groups consecutive events of the same type in the same repository together and showing the count of how many
-    times that event happened in a row.
+    times that event happened.
     """
 
     username = input("Enter GitHub username: ")
