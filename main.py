@@ -1,5 +1,4 @@
 import requests
-import json
 
 def event_parser(event, n=1):
     """
